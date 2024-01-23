@@ -1,6 +1,6 @@
 const local = false
 const localUrl = `http://localhost:4000/api/v1`
-const prodUrl = `http://api.shreegoudham.com`
+const prodUrl = `http://api.shreegoudham.com/api/v1`
 
 const base_url = local ? localUrl : prodUrl
 
